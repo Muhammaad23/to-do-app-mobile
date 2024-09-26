@@ -1,1 +1,1 @@
-<img src='ui.png' />
+<img src='to-do-app-mobile/ui.png' />
